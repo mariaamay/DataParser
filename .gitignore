@@ -1,0 +1,5 @@
+# Ignore IDEA files and directories
+.idea/
+DataParser.iml
+out/
+target/
